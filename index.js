@@ -10,6 +10,7 @@ function rww(uri) {
       // console.log('writing to', uri)
       target[property] = value
       fs.writeFileSync(uri, JSON.stringify(target, null, 2))
+      return true
     }
   }
   return new Proxy(json, handler)

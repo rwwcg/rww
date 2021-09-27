@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 
-const rww = require('../')
 
-var dataFile = './test/data/test.json'
+var json = require('../')('./test/data/test.json')
 
-var j = rww(dataFile)
-j.points = 2
-console.log(j)
+json.points = Math.random() * 10
+console.log(json)
+
+
