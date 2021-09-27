@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spux/rww.git"
+    "url": "git+https://github.com/rwwcg/rww.git"
   },
   "keywords": [
     "rww"
   ],
   "author": "Melvin Carvalho",
   "bugs": {
-    "url": "https://github.com/spux/rww/issues"
+    "url": "https://github.com/rwwcg/rww/issues"
   },
-  "homepage": "https://github.com/spux/rww#readme",
+  "homepage": "https://github.com/rwwcg/rww#readme",
   "dependencies": {
     "fs": "^0.0.1-security",
     "rww": "^0.0.5"
