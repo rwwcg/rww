@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/spux/rww#readme",
   "dependencies": {
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "rww": "^0.0.5"
   }
 }
