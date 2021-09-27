@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/spux/rww/issues"
   },
-  "homepage": "https://github.com/spux/rww#readme"
+  "homepage": "https://github.com/spux/rww#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
 }
