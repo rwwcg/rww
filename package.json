@@ -1,6 +1,6 @@
 {
   "name": "rww",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "read write web",
   "main": "index.js",
   "scripts": {
